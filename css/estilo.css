@@ -201,7 +201,7 @@
     .zona_slider {
       width: 100%;
       height: auto;
-      overflow: hidde;
+      overflow: hidden;
       animation: cambio 15s infinite alternate ease-in-out;
       box-sizing: border-box;
     }
@@ -1284,6 +1284,7 @@ footer {
     }
 
 }
+
 
 
 
